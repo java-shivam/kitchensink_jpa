@@ -2,9 +2,16 @@
 
 ### RUN DEMO kitchensink POC ###
 #Step1:build the project with below cmd on terminal.
-#Step2:cmd: mvn clean install
-#Step3:once project got build, import in Working IDE
+
+#Step2:cmd: mvn clean install.
+
+#Step3:once project got build, import in Working IDE.
+
 #Step4:You can access the Application (http://localhost:8080/index.jsf),once deployment get successfull.
+(prerequisite: install postgress(any relational db) and update the datasource value inside the application.properties)
+(install java 21)
+(install MVN : 3.3.X)
+
 #Also Added the docker file to run the project on docker(freeware)
 
 
