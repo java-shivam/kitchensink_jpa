@@ -1,11 +1,11 @@
 # Getting Started
 
 ### RUN DEMO kitchensink POC ###
-#Step1:build the project with below cmd on terminal.
-#Step2:cmd: mvn clean install
-#Step3:once project got build, import in Working IDE
-#Step4:You can access the Application (http://localhost:8080/index.jsf),once deployment get successfull.
-#Also Added the docker file to run the project on docker(freeware)
+#Step1:build the project with below cmd on terminal.\n
+#Step2:cmd: mvn clean install.\n
+#Step3:once project got build, import in Working IDE.\n
+#Step4:You can access the Application (http://localhost:8080/index.jsf),once deployment get successfull.\n
+#Also Added the docker file to run the project on docker(freeware)\n
 
 
 
